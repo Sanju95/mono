@@ -1,0 +1,13 @@
+{
+  "name": "mono",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "pnpm run --filter next-app dev && sleep 1 && open http://localhost:3001"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
