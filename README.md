@@ -25,3 +25,6 @@ https://www.youtube.com/watch?v=u8vMu7viCm8&ab_channel=freeCodeCamp.org
 
 git clone https://github.com/coderyansolomon/cypress-course.git
 
+pnpm i cypress -D
+
+pnpx cypress open
